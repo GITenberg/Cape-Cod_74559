@@ -8,12 +8,17 @@ contributor:
   - agent_name: Fenn, Walter J
     gutenberg_agent_id: '57552'
     url: http://www.gutenberg.org/2009/agents/57552
+covers:
+- cover_type: archival
+  image_path: 74559-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitchell, F
     gutenberg_agent_id: '57550'
     url: http://www.gutenberg.org/2009/agents/57550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74559#Cape-Cod
 gutenberg_issued: '2024-10-11'
 gutenberg_type: Text
 identifiers:
